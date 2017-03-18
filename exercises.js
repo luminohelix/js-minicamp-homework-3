@@ -150,11 +150,7 @@ storeItem.calculateDiscountPrice = function () {
 };
 return storeItem;
 }
-  /*storeItem.calculateDiscountPrice = function() {
-    var discountPrice = (this.price - (this.price * this.discountPercentage));
-    return discountPrice;*/
-//};
-//}
+
 
 //Do not modify code below this line.
 ////--------------------------------
